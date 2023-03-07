@@ -1,1 +1,7 @@
 hello this is second file in local repo ..........same as info1.txt
+
+I have just added this new line :
+1. This is a update in file or new added code or edit in file at local repo.
+2. We are going to commit and push it into github remote server.
+3. Where we will merge this file to base branch MAIN from creating a pull request or will get a pull request.
+4. We will add any comment and the compare and confirm merge of this updated file.  
